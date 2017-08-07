@@ -1,2 +1,2 @@
 # deviceHandler_BR30OFD
-Device Handler for the SYLVANIA Smart Br30 On/Off/Dim
+Device Handlers for the SYLVANIA Smart BR30 On/Off/Dim, PAR38 On/Off/Dim, and MR16 Tunable White.
